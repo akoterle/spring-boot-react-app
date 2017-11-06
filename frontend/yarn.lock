@@ -4524,7 +4524,7 @@ package-json@^2.0.0:
   resolved "https://registry.yarnpkg.com/package-json/-/package-json-2.4.0.tgz#0d15bd67d1cbbddbb2ca222ff2edb86bcb31a8bb"
   dependencies:
     got "^5.0.0"
-    registry-auth-token "^3.0.1"
+    registry-com.akoterle.spring_boot.angular.auth-token "^3.0.1"
     registry-url "^3.0.3"
     semver "^5.1.0"
 
@@ -5378,9 +5378,9 @@ regexpu-core@^2.0.0:
     regjsgen "^0.2.0"
     regjsparser "^0.1.4"
 
-registry-auth-token@^3.0.1:
+registry-com.akoterle.spring_boot.angular.auth-token@^3.0.1:
   version "3.3.1"
-  resolved "https://registry.yarnpkg.com/registry-auth-token/-/registry-auth-token-3.3.1.tgz#fb0d3289ee0d9ada2cbb52af5dfe66cb070d3006"
+  resolved "https://registry.yarnpkg.com/registry-com.akoterle.spring_boot.angular.auth-token/-/registry-com.akoterle.spring_boot.angular.auth-token-3.3.1.tgz#fb0d3289ee0d9ada2cbb52af5dfe66cb070d3006"
   dependencies:
     rc "^1.1.6"
     safe-buffer "^5.0.1"
